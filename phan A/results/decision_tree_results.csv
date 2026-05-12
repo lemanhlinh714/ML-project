@@ -1,0 +1,4 @@
+max_depth,criterion,min_samples_leaf,accuracy
+3,gini,1,0.4117647058823529
+5,gini,5,0.4
+10,entropy,2,0.3058823529411765
